@@ -1,2 +1,4 @@
 # Homework7
 Alayna Devine
+SRR13934172
+SRR14149066
